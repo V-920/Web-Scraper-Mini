@@ -8,7 +8,7 @@
 
 ## Functioning
 1) User enters URL
-2) code add the necessary https://www. before the website URL given to ensure proper functioning of the modules
+2) Code adds the necessary https://www. before the website URL given to ensure proper functioning of the modules
 3) Modules get the title and content and removes the extra title tags and spaces
 4) The output gets printed
 5) A .csv file is also created to save the scraped output and is opened through the Os module
